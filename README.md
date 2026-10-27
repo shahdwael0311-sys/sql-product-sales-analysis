@@ -2,7 +2,11 @@
 
 **Goal:** Use SQL to find out what sells best, where the revenue comes from, and how sales change month by month.
 ## Dataset
-[Chinook Database](https://www.kaggle.com/datasets/ranasabrii/chinook/data) is a sample database of a digital music store. It has tables for tracks, albums, artists, genres, customers, invoices and invoice lines. Sales data covers 2009 to 2013.
+Chinook Database (`Chinook_Sqlite.sqlite`), a sample database of a digital music store.
+- Source used: [lerocha/chinook-database releases](https://github.com/lerocha/chinook-database/releases)
+- Also available on Kaggle: [Chinook dataset](https://www.kaggle.com/datasets/ranasabrii/chinook)
+
+The data covers sales from 2009 to 2013.
 
 ## Tools Used
 - SQLite (queried with DB Browser for SQLite)
