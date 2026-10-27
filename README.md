@@ -51,10 +51,10 @@ JOINs (up to 4 tables), GROUP BY and aggregations, CTEs, and window functions (`
 ## Results
 
 ### Top 10 Countries by Revenue
-![Revenue by country](images/revenue_by_country.png)
+![Revenue by country](revenue_by_country.png)
 
 ### Monthly Revenue
-![Monthly revenue](images/monthly_revenue.png)
+![Monthly revenue](monthly_revenue.png)
 
 
 ## How to Run
